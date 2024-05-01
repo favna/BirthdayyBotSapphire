@@ -35,7 +35,7 @@
     "discord-api-types": "^0.37.43",
     "discord.js": "^14.11.0",
     "prisma": "^4.15.0",
-    "reflect-metadata": "^0.1.13"
+    "reflect-metadata": "^0.2.2"
   },
   "devDependencies": {
     "@sapphire/cli": "^1.6.1",
