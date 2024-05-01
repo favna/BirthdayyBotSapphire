@@ -1201,9 +1201,9 @@ __metadata:
     "@types/ws": ^8.5.5
     "@typescript-eslint/eslint-plugin": ^5.59.9
     "@typescript-eslint/parser": ^5.59.9
-    bullmq: ^3.15.4
+    bullmq: ^3.15.8
     colorette: ^2.0.20
-    dayjs: ^1.11.8
+    dayjs: ^1.11.11
     discord-api-types: ^0.37.43
     discord.js: ^14.11.0
     eslint: ^8.42.0
@@ -1265,9 +1265,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bullmq@npm:^3.15.4":
-  version: 3.15.4
-  resolution: "bullmq@npm:3.15.4"
+"bullmq@npm:^3.15.8":
+  version: 3.15.8
+  resolution: "bullmq@npm:3.15.8"
   dependencies:
     cron-parser: ^4.6.0
     glob: ^8.0.3
@@ -1277,7 +1277,7 @@ __metadata:
     semver: ^7.3.7
     tslib: ^2.0.0
     uuid: ^9.0.0
-  checksum: f4ece922627f1469c6ccde5f77c0a815b63a2e03f7e3cfb3ae6fad52983cd36e9ed5b4abdad150d7d12eae22f386a0ecc0ff1f5494b3e3a6102fa72d89af448c
+  checksum: bca20de291acbb97c67736c2d29b88b4f99e372ffd818b2041d4629ffba126a8c75ba6e25a1d181053c6e03ee4e260020e67fbb91412908040273187146493a4
   languageName: node
   linkType: hard
 
@@ -1548,10 +1548,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dayjs@npm:^1.11.8":
-  version: 1.11.8
-  resolution: "dayjs@npm:1.11.8"
-  checksum: 4fe04b6df98ba6e5f89b49d80bba603cbf01e21a1b4a24ecb163c94c0ba5324a32ac234a139cee654f89d5277a2bcebca5347e6676c28a0a6d1a90f1d34a42b8
+"dayjs@npm:^1.11.11":
+  version: 1.11.11
+  resolution: "dayjs@npm:1.11.11"
+  checksum: 84788275aad8a87fee4f1ce4be08861df29687aae6b7b43dd65350118a37dda56772a3902f802cb2dc651dfed447a5a8df62d88f0fb900dba8333e411190a5d5
   languageName: node
   linkType: hard
 
